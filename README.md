@@ -44,6 +44,7 @@ Excel列提取工具功能描述
 该工具通过直观的界面和高效的批量处理功能，显著提高了从多个Excel文件中提取和合并数据的效率，特别适合需要处理大量表格数据的用户。
 
 Excel Column Extraction Tool - Functional Description
+
 This is an efficient Excel data processing tool designed to extract specified columns from multiple Excel files and consolidate the results into a new file. Its main features include:
 
 Core Functionality
