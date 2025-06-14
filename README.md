@@ -43,6 +43,14 @@ Excel列提取工具功能描述
 批量处理：一次性处理大量Excel文件的数据提取任务
 该工具通过直观的界面和高效的批量处理功能，显著提高了从多个Excel文件中提取和合并数据的效率，特别适合需要处理大量表格数据的用户。
 
+感谢您使用 Excel列提取工具！如果这个工具为您节省了时间、简化了工作流程，或者您希望支持后续开发，欢迎通过以下方式打赏支持：
+微信：
+![image](https://raw.githubusercontent.com/muscccm/Excel-Column-Extraction-Tool/refs/heads/main/WC.png)
+支付宝：
+![image](https://raw.githubusercontent.com/muscccm/Excel-Column-Extraction-Tool/refs/heads/main/AP.png)
+Paypal:
+https://paypal.me/muscccm?country.x=C2&locale.x=zh_XC
+
 Excel Column Extraction Tool - Functional Description
 
 This is an efficient Excel data processing tool designed to extract specified columns from multiple Excel files and consolidate the results into a new file. Its main features include:
@@ -87,3 +95,11 @@ Data cleaning: Keep only required columns while removing redundant data
 Cross-file comparison: Quickly compare data for same indicators across different files
 Batch processing: Efficiently handle data extraction from large volumes of Excel files
 This tool significantly improves efficiency in extracting and consolidating data from multiple Excel files through its intuitive interface and powerful batch processing capabilities, making it especially valuable for users working with large volumes of tabular data.
+
+Thank you for using the Excel Column Extraction Tool! If this tool has saved you time, simplified your workflow, or you'd like to support future development, consider making a donation:
+Wechat：
+![image](https://raw.githubusercontent.com/muscccm/Excel-Column-Extraction-Tool/refs/heads/main/WC.png)
+Alipay：
+![image](https://raw.githubusercontent.com/muscccm/Excel-Column-Extraction-Tool/refs/heads/main/AP.png)
+Paypal:
+https://paypal.me/muscccm?country.x=C2&locale.x=zh_XC
